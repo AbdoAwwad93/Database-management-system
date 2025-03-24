@@ -1,4 +1,4 @@
-# Hospital Management System Database
+# Hospital Management System Database (For learning)
 
 ## Overview
 This database system is designed to manage a hospital's operations, including patient records, medical staff information, appointments, and departmental organization. The system facilitates efficient healthcare service delivery by maintaining relationships between patients, doctors, nurses, and various hospital services.
